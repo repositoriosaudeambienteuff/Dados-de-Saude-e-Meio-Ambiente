@@ -3,3 +3,13 @@ Nesse repositório serão apresentados dados provenientes de duas fontes. Os dad
 
 De tal maneira, pode-se analisar a figura 1e a figura 2 abaixo apresenta a média de PM 2,5 no ano de 2000 por municípios. Observe como houve um crescimento na região norte da média ao longo dos 12 meses, com isso podemos criar uma investigação para estudar o motivo desse crescimento. Este é um exemplo para o uso dos dados nesse repositório.
 No dashboard interativo será possível encontrar o mapa para todos os meses de 2000 até a 2022 
+
+
+<img src='https://github.com/repositoriosaudeambienteuff/Dados-de-Saude-e-Meio-Ambiente/blob/b21930b00b0344b7de8579a7672d9d4fac56fd86/imagens/Media%20PM25%20-%20jan%202000.png' width=70%></img>
+
+Figura 1
+
+<img src='https://github.com/repositoriosaudeambienteuff/Dados-de-Saude-e-Meio-Ambiente/blob/b21930b00b0344b7de8579a7672d9d4fac56fd86/imagens/Media%20PM25%20-%20Dez%202000.png' width=70%></img>
+
+Figura 2
+
