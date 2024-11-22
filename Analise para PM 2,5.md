@@ -12,18 +12,18 @@ De acordo com as análises, as figuras 1 e 2, apresentadas abaixo, mostram a mé
 
 <img src='https://github.com/repositoriosaudeambienteuff/Dados-de-Saude-e-Meio-Ambiente/blob/b21930b00b0344b7de8579a7672d9d4fac56fd86/imagens/Media%20PM25%20-%20jan%202000.png' width=58%></img>
 
-Figura 1
+<sub>Figura 1</sub>
 
 <img src='https://github.com/repositoriosaudeambienteuff/Dados-de-Saude-e-Meio-Ambiente/blob/b21930b00b0344b7de8579a7672d9d4fac56fd86/imagens/Media%20PM25%20-%20Dez%202000.png' width=58%></img>
 
-Figura 2
+<sub>Figura 2</sub>
 
 
 A figura 3, por sua vez, exibe um boxplot dos valores de PM 2,5 no Brasil em janeiro de 2022. Nota-se que a mediana e os valores mínimos e máximos estão no intervalo [0, 10]. No entanto, há um grande número de outliers, indicando possíveis valores discrepantes. Esses valores podem ser explorados em estudos futuros para entender suas origens, configurando outro exemplo de uso deste repositório.
 
 <img src='https://github.com/repositoriosaudeambienteuff/Dados-de-Saude-e-Meio-Ambiente/blob/0eed68108c029245f13a26db31e829a80297733b/imagens/boxplot%20PM%202%2C5%20Brasil%20em%20janeiro%20de%202022.png' width=58%></img>
 
-Figura 3
+<sub>Figura 3</sub>
 
 Por fim, no dashboard interativo, será possível encontrar uma série temporal que ilustra a evolução da média de PM 2,5 ao longo do tempo. A figura 4, por exemplo, apresenta a média ao longo do ano de 2000, com um aumento acelerado dessas partículas a partir de julho, um ponto que merece atenção.
 
@@ -31,4 +31,4 @@ Vale destacar que o dashboard interativo disponibiliza mapas, boxplots e séries
 
 <img src='https://github.com/repositoriosaudeambienteuff/Dados-de-Saude-e-Meio-Ambiente/blob/611510b8745f302d3684e5abecf363c7bc84ff6d/imagens/s%C3%A9rie%20temporal%20m%C3%A9dia%20de%20PM%202%2C5%202000.png' width=58%></img>
 
-Figura 4
+<sub>Figura 4</sub>
