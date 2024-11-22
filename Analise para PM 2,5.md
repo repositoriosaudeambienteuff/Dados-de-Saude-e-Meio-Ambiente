@@ -1,8 +1,9 @@
 ## Análise para PM 2,5
 Neste repositório, serão apresentados dados provenientes de duas fontes:
-- PM2,5_CAMS: Dados obtidos do Copernicus Atmosphere Monitoring Service (CAMS Global Reanalysis), um conjunto de dados de reanálise global da composição atmosférica, disponibilizado pelo ECMWF. Esses dados possuem resolução temporal de três horas e resolução espacial de 14 km. Os mesmos dados estão disponíveis no painel Vigiar (Vigiar Saúde Ambiental).
+- PM2,5_CAMS: Dados obtidos do Copernicus Atmosphere Monitoring Service (CAMS Global Reanalysis), um conjunto de dados de reanálise global da composição atmosférica, disponibilizado pelo ECMWF. Esses dados possuem resolução temporal de três horas e resolução espacial de 14 km. Os mesmos dados estão disponíveis no painel Vigiar [(Vigiar Saúde Ambiental.)](https://www.gov.br/saude/pt-br/composicao/svsa/saude-ambiental/vigiar)
 
--	PM2,5_EDF: Estimativas de concentração média mensal de PM 2,5, disponibilizadas pelo Grupo de Análise de Composição Atmosférica da Universidade de Washington. Esses dados têm resolução espacial de aproximadamente 1 km (ou ~0,01°) e estão disponíveis globalmente no portal Surface PM2.5.
+
+-	PM2,5_EDF: Estimativas de concentração média mensal de PM 2,5, disponibilizadas pelo Grupo de Análise de Composição Atmosférica da Universidade de Washington. Esses dados têm resolução espacial de aproximadamente 1 km (ou ~0,01°) e estão disponíveis globalmente no portal Surface PM2.5, disponível em: <Surface PM2.5 | Atmospheric Composition Analysis Group | Washington University in St. Louis (wustl.edu)>. 
 
 De acordo com as análises, as figuras 1 e 2, apresentadas abaixo, mostram a média de PM 2,5 no ano de 2000 por município. Observa-se um aumento significativo na média da região Norte ao longo dos 12 meses. Esse fenômeno pode ser investigado mais detalhadamente para identificar suas causas.
 
