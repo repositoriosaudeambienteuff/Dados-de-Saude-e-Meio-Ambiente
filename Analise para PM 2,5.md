@@ -29,6 +29,6 @@ Por fim, no dashboard interativo, será possível encontrar uma série temporal 
 
 Vale destacar que o dashboard interativo disponibiliza mapas, boxplots e séries temporais para todos os meses entre 2000 e 2022.
 
-
+<img src='https://github.com/repositoriosaudeambienteuff/Dados-de-Saude-e-Meio-Ambiente/blob/611510b8745f302d3684e5abecf363c7bc84ff6d/imagens/s%C3%A9rie%20temporal%20m%C3%A9dia%20de%20PM%202%2C5%202000.png' width=58%></img>
 
 Figura 4
