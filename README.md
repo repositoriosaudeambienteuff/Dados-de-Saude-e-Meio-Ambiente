@@ -1,11 +1,17 @@
 # Dados de Saúde e Meio Ambiente
+Este repositório de dados tem o objetivo de armazenar, divulgar e facilitar o acesso a bases de dados relacionadas ao meio ambiente e à saúde. Serão apresentados dados sobre Síndrome Respiratória Aguda Grave (SRAG) e PM 2,5.
+Além disso, será disponibilizado um dashboard interativo com o intuito de facilitar a interpretação desses dados.
 
-Este repositório de dados tem o objetivo de armazena, divulga e facilita o acesso a bases de dados relacionadas a meio ambiente e saúde. Será apresentado dados de [Síndrome Respiratória Aguda Grave (SRAG)](https://saudeambienteuff.shinyapps.io/Dashboard_SRAG/) e [PM 2,5.](https://saudeambienteuff.shinyapps.io/Dashboard_PM_25/)
-Além disso, será apresentado um dashboard interativo a fim de facilitar a interpretação dos dados.
+## PM 2,5
+De acordo com a European Environment Agency, PM 2,5 refere-se a partículas finas em suspensão com diâmetro inferior a 2,5 micrômetros. Essas partículas estão associadas a doenças e mortes causadas por condições cardíacas ou pulmonares.
 
-### PM 2,5 
-De acordo com a European Environment Agency, PM 2,5 são partículas finas em suspensão e elas tem 2,5 um diâmetro inferior a 2,5 micrómetros. Desta maneira, essas partículas estão associadas a doenças e a mortes causadas por doenças cardíacas ou pulmonares.
+## SRAG
+A SRAG abrange casos de síndrome gripal que comprometem a função respiratória, muitas vezes levando à hospitalização, sem outra causa específica associada.
 
-### SRAG 
-Abrange casos de síndrome gripal que causam um comprometimento da função respiratória em que, na maioria dos casos, leva-se a hospitalização sem outra causa especifica associada. 
 
+### Links para os dashboards: 
+- [PM2.5](https://saudeambienteuff.shinyapps.io/Dashboard_PM_25/)
+
+- [SRAG](https://saudeambienteuff.shinyapps.io/Dashboard_SRAG/)
+
+- [COVID-19](https://saudeambienteuff.shinyapps.io/Dashboard_COVID-19/)
