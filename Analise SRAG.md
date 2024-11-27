@@ -23,3 +23,41 @@ No dashboard interativo, são apresentados mapas de taxas e observações de cas
 
 
 Este repositório permite análises detalhadas de casos de SRAG antes e durante a pandemia de COVID-19. O dashboard interativo fornece dados mensais de 2009 a 2022, permitindo uma visão ampla do comportamento epidemiológico da SRAG ao longo dos anos, auxiliando em estudos epidemiológicos e no planejamento de intervenções em saúde pública.
+
+
+<img src='https://github.com/repositoriosaudeambienteuff/Dados-de-Saude-e-Meio-Ambiente/blob/6c520c1693470b5d9b41bf28f3fa36ec272370b1/imagens/Mapa%20SRAG%202009.png' width=58%></img>
+
+<sub>Figura 1</sub>
+
+
+<img src='https://github.com/repositoriosaudeambienteuff/Dados-de-Saude-e-Meio-Ambiente/blob/6c520c1693470b5d9b41bf28f3fa36ec272370b1/imagens/Mapa%20SRAG%202009%202.png' width=58%></img>
+
+<sub>Figura 2</sub>
+
+<img src='https://github.com/repositoriosaudeambienteuff/Dados-de-Saude-e-Meio-Ambiente/blob/6c520c1693470b5d9b41bf28f3fa36ec272370b1/imagens/Mapa%20SRAG%202019.png' width=58%></img>
+
+<sub>Figura 3</sub>
+
+<img src='https://github.com/repositoriosaudeambienteuff/Dados-de-Saude-e-Meio-Ambiente/blob/6c520c1693470b5d9b41bf28f3fa36ec272370b1/imagens/Mapa%20SRAG%202020.png' width=58%></img>
+
+<sub>Figura 4</sub>
+
+
+<img src='https://github.com/repositoriosaudeambienteuff/Dados-de-Saude-e-Meio-Ambiente/blob/6c520c1693470b5d9b41bf28f3fa36ec272370b1/imagens/Mapa%20SRAG%202020%202.png' width=58%></img>
+
+<sub>Figura 5</sub>
+
+
+<img src='https://github.com/repositoriosaudeambienteuff/Dados-de-Saude-e-Meio-Ambiente/blob/6c520c1693470b5d9b41bf28f3fa36ec272370b1/imagens/Boxsplot%20SRAG%202020.png' width=58%></img>
+
+<sub>Figura 6</sub>
+
+
+<img src='https://github.com/repositoriosaudeambienteuff/Dados-de-Saude-e-Meio-Ambiente/blob/6c520c1693470b5d9b41bf28f3fa36ec272370b1/imagens/Analise%20temporal%20SRAG.png' width=58%></img>
+
+<sub>Figura 7</sub>
+
+
+
+
+
