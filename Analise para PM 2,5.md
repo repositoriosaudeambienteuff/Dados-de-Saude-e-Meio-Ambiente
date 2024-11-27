@@ -10,11 +10,11 @@ De acordo com as análises, as figuras 1 e 2, apresentadas abaixo, mostram a mé
 
 
 
-<img src='https://github.com/repositoriosaudeambienteuff/Dados-de-Saude-e-Meio-Ambiente/blob/b21930b00b0344b7de8579a7672d9d4fac56fd86/imagens/Media%20PM25%20-%20jan%202000.png' width=58%></img>
+<img src='https://github.com/repositoriosaudeambienteuff/Dados-de-Saude-e-Meio-Ambiente/blob/02e938f4209ed23b645ad8490f10423251c00ca6/imagens/Mapa%20PM2%2C5%20JAN.png' width=58%></img>
 
 <sub>Figura 1</sub>
 
-<img src='https://github.com/repositoriosaudeambienteuff/Dados-de-Saude-e-Meio-Ambiente/blob/b21930b00b0344b7de8579a7672d9d4fac56fd86/imagens/Media%20PM25%20-%20Dez%202000.png' width=58%></img>
+<img src='https://github.com/repositoriosaudeambienteuff/Dados-de-Saude-e-Meio-Ambiente/blob/02e938f4209ed23b645ad8490f10423251c00ca6/imagens/Mapa%20PM2%2C5%20DEZ.png' width=58%></img>
 
 <sub>Figura 2</sub>
 
