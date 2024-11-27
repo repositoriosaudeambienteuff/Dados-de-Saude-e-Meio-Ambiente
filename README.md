@@ -10,7 +10,7 @@ A SRAG abrange casos de síndrome gripal que comprometem a função respiratóri
 
 
 ### Links para os dashboards: 
-- [PM2.5](https://saudeambienteuff.shinyapps.io/Dashboard_PM_25/)
+- [PM2.5](http://saudeambienteuff.shinyapps.io/Dashboard_PM25)
 
 - [SRAG](https://saudeambienteuff.shinyapps.io/Dashboard_SRAG/)
 
