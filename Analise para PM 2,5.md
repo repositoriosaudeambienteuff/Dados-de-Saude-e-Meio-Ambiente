@@ -10,18 +10,18 @@ De acordo com as análises, as figuras 1 e 2, apresentadas abaixo, mostram a mé
 
 
 
-<img src='https://github.com/repositoriosaudeambienteuff/Dados-de-Saude-e-Meio-Ambiente/blob/02e938f4209ed23b645ad8490f10423251c00ca6/imagens/Mapa%20PM2%2C5%20JAN.png' width=58%></img>
+<img src='https://github.com/repositoriosaudeambienteuff/Dados-de-Saude-e-Meio-Ambiente/blob/ec49239a254466fc7c65d4e869c26c4f9ca23750/Imagens/Mapa_PM25_2024-12-06.png' width=70%></img>
 
 <sub>Figura 1</sub>
 
-<img src='https://github.com/repositoriosaudeambienteuff/Dados-de-Saude-e-Meio-Ambiente/blob/02e938f4209ed23b645ad8490f10423251c00ca6/imagens/Mapa%20PM2%2C5%20DEZ.png' width=58%></img>
+<img src='https://github.com/repositoriosaudeambienteuff/Dados-de-Saude-e-Meio-Ambiente/blob/ec49239a254466fc7c65d4e869c26c4f9ca23750/Imagens/Mapa_PM25_2024-12-06%20(1).png' width=70%></img>
 
 <sub>Figura 2</sub>
 
 
 A figura 3, por sua vez, exibe um boxplot dos valores de PM 2,5 no Brasil em janeiro de 2022. Nota-se que a mediana e os valores mínimos e máximos estão no intervalo [0, 10]. No entanto, há um grande número de outliers, indicando possíveis valores discrepantes. Esses valores podem ser explorados em estudos futuros para entender suas origens, configurando outro exemplo de uso deste repositório.
 
-<img src='https://github.com/repositoriosaudeambienteuff/Dados-de-Saude-e-Meio-Ambiente/blob/0eed68108c029245f13a26db31e829a80297733b/imagens/boxplot%20PM%202%2C5%20Brasil%20em%20janeiro%20de%202022.png' width=58%></img>
+<img src='https://github.com/repositoriosaudeambienteuff/Dados-de-Saude-e-Meio-Ambiente/blob/ec49239a254466fc7c65d4e869c26c4f9ca23750/Imagens/Boxplot_unico_PM25_2024-12-06.png' width=70%></img>
 
 <sub>Figura 3</sub>
 
@@ -29,6 +29,6 @@ Por fim, no dashboard interativo, será possível encontrar uma série temporal 
 
 Vale destacar que o dashboard interativo disponibiliza mapas, boxplots e séries temporais para todos os meses entre 2000 e 2022.
 
-<img src='https://github.com/repositoriosaudeambienteuff/Dados-de-Saude-e-Meio-Ambiente/blob/611510b8745f302d3684e5abecf363c7bc84ff6d/imagens/s%C3%A9rie%20temporal%20m%C3%A9dia%20de%20PM%202%2C5%202000.png' width=58%></img>
+<img src='https://github.com/repositoriosaudeambienteuff/Dados-de-Saude-e-Meio-Ambiente/blob/ec49239a254466fc7c65d4e869c26c4f9ca23750/Imagens/Serie_PM25_2024-12-06.png' width=70%></img>
 
 <sub>Figura 4</sub>
